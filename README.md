@@ -4,7 +4,7 @@ Prototip care recunoaște automat trei tipuri de deșeuri (**metal, hârtie, pla
 
 ![Prototipul în funcțiune: LCD-ul afișează materialul detectat](docs/prototip.jpg)
 
-**Demonstrație video:** [link YouTube - de adăugat]
+**Demonstrație video:** [https://www.youtube.com/watch?v=y653r2cmrfk]
 
 ## Ce face
 
